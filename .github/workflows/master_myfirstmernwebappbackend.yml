@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'myfirstmernwebappbackend'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_074858793cad43e0a26aa730c93b41d8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0ee2d1a3305549869f3655ef25df64f9 }}
         package: .
